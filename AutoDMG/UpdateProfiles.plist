@@ -107,10 +107,12 @@
 		<key>10.13-17A365</key>
 		<array>
 			<string>iTunes</string>
+			<string>HiCSupplemental</string>
+			<string>SecurityHiC</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-09-26T08:11:53Z</date>
+	<date>2017-11-29T09:05:53Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -212,6 +214,28 @@
 			<key>url</key>
 			<string>https://secure-appldnld.apple.com/itunes12/031-97711-20170912-AA2DAD20-71C8-4326-9AE8-F56B9F1DF169/iTunes12.7.dmg</string>
 		</dict>
+		<key>HiCSupplemental</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2017-001 macOS Sierra</string>
+			<key>sha1</key>
+			<string>7ac2c6cd19dfcedc454bf0c7504b7429fd8a489b</string>
+			<key>size</key>
+			<integer>923432128</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1937/en_US/macOSUpd10.13Supplemental.dmg</string>
+		</dict>
+		<key>SecurityHiC</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2017-001 (High Sierra)</string>
+			<key>sha1</key>
+			<string>89eefbab6eb9720ebb53ac898c70147ffbe6c272</string>
+			<key>size</key>
+			<integer>768283555</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1940/en_US/secupd2017-001sierra.dmg</string>
+		</dict>		
 	</dict>
 </dict>
 </plist>
